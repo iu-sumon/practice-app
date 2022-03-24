@@ -1,0 +1,44 @@
+.order-cart{
+    text-align: center;
+    color: white;
+}
+
+
+.order-cart img 
+{
+    width: 200px;
+    height: 200px;
+    border-radius: 20px 0px ;
+
+}
+.btn-remove
+{
+    display: block;
+    width:80%;
+    height: 40px;
+    margin: 0 auto;
+    background-color: rgb(243, 42, 42);
+    border-radius: 20px 0px ;
+    color:white;
+    font-weight:bold;
+    border: none;
+
+}
+.btn-review
+{
+    display: block;
+    width:80%;
+    height: 40px;
+    margin: 0 auto;
+    margin-top: 10px;
+    background-color: rgb(231, 111, 26);
+    border-radius: 20px 0px ;
+    color:white;
+    font-weight:bold;
+    border: none;
+
+}
+.order-info
+{
+    font-weight: bold;
+}

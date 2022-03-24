@@ -1,0 +1,55 @@
+.meal-cart
+{
+    border: 2px solid rgb(182, 172, 172);
+    border-radius: 20px 0px ;
+    text-align: center;
+    width: 300px;
+    height: 570px;
+    position: relative;
+}
+.meal-cart img 
+{
+    width: 250px;
+    height: 250px;
+    margin: 20px;
+    border-radius: 20px 0px;
+}
+.meal-cart img:hover{
+    transform:scale(1.1);
+    transition: transform ease-in-out 1s;
+}
+.cart-btn
+{   
+    width:300px;
+    position:absolute;
+    background-color:rgb(154, 113, 83);
+    left: 0%;
+    right: 0%;
+    top: 90.75%;
+    bottom: -0.2%;
+    border: none;
+    border-radius: 20px 0px ;
+    color: white;
+    font-size:17px;
+    cursor: pointer;
+    
+}
+.cart-btn:hover
+{
+   background-color: rgb(134, 58, 58);
+}
+.cart-info
+{
+     text-align: justify;
+     padding:0px 4px;
+     margin-top: 0px;
+}
+cart-name
+{
+    margin-top: 0px;
+}
+.cart-area
+{
+    margin-bottom:10px;
+    margin-top:0px;
+}
